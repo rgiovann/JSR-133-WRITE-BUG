@@ -65,7 +65,7 @@ public class RaceConditionDemo {
         }
         
         // Waiting for user input to stop
-        System.out.println("Pressione ENTER para encerrar o teste...");
+        System.out.println("Press ENTER to terminate test...");
         try {
 			System.in.read();
 		} catch (IOException e) {
